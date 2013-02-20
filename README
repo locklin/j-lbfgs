@@ -1,0 +1,3 @@
+Here are the gizmos needed to build lbfgs for J on linux
+It seems to work; I haven't tested it extensively, as I'd rather work on lbfgsb; box constraints 
+are useful. It does seem to optmize things though.
